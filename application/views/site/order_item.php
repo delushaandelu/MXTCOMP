@@ -56,7 +56,7 @@
                         </td>
                         <td>
                             <div class="col-sm-6">
-                                <button name="reset" class="btn btn-lg full-width" type="reset" id="submit">Cancel</button>
+                                <a href="<?php echo base_url();?>"><button name="reset" class="btn btn-lg full-width" id="submit">Cancel</button></a>
                             </div>
                         </td>
                     </tr>

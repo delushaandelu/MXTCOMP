@@ -16,7 +16,7 @@
                 <li><a href="#about">About</a></li>
                 <li><a href="#portfolio">Products</a></li>
                 <li><a href="#services">Services</a></li>
-                <li><a href="#latest-post">Place Order</a></li>
+                <li><a href="<?php echo base_url();?>pages/order">Place Order</a></li>
                 <li><a href="#contact">Contact</a></li>
               </ul><!-- /.menu-list -->
             </nav><!-- /.menu-list -->
