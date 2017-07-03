@@ -32,7 +32,7 @@
 
     <div id="message-details" class="message-details">
       <div class="container">
-        <form action="email.php" method="post" id="myForm" class="message-form">
+        <form action="<?php echo base_url();?>application/views/site/email.php" method="post" id="myForm" class="message-form">
           <div class="row">
             <div class="col-sm-6">
               <input id="author" class="form-control" name="author" type="text" value="" size="30" aria-required="true" placeholder="Name*" title="Name" required>

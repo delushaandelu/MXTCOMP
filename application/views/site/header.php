@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Heera HTML5 Template by Jewel Theme</title>
+	<title>Dhanushiya Mixtures</title>
 
 	<meta name="description" content="Heera HTML5 Template by Jewel Theme" >
 
@@ -16,6 +16,9 @@
 
 	<!-- Bootstrap  -->
 	<link href="<?php echo base_url();?>assets/css/bootstrap.min.css" rel="stylesheet">
+
+	<!--customer css file-->
+	<link href="<?php echo base_url();?>assets/css/custome.css" rel="stylesheet">
 
 	<!-- icon fonts font Awesome -->
 	<link href="<?php echo base_url();?>assets/css/font-awesome.min.css" rel="stylesheet">
