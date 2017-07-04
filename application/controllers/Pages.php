@@ -31,6 +31,7 @@
             $this->form_validation->set_rules('email', 'Email Address', 'required');
             $this->form_validation->set_rules('itemi', 'Item No 1', 'required');
             $this->form_validation->set_rules('qtyi', 'Item No 1 QTY', 'required');
+            $this->form_validation->set_rules('address', 'Delivery Addtess', 'required');
 
             if($this->form_validation->run()===FALSE){
               $this->load->view('site/header');

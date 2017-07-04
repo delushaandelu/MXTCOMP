@@ -15,7 +15,8 @@
                 'itemiii' => $this->input->post('itemiii'),
                 'qtyiii' => $this->input->post('qtyiii'),
                 'itemiv' => $this->input->post('itemiv'),
-                'qtyiv' => $this->input->post('qtyiv')
+                'qtyiv' => $this->input->post('qtyiv'),
+                'address' => $this->input->post('address')
             );
 
             return $this->db->insert('orders', $data);

@@ -13,7 +13,7 @@
                     </tr>
                     <tr>
                         <td colspan='2'>
-                            <input id="email" class="form-control" name="email" type="email" value="" size="30" aria-required="true" placeholder="Email*" title="Email">
+                            <input id="email" class="form-control" name="email" type="text" value="" size="30" aria-required="true" placeholder="Telephone Number*" title="Email">
                         </td>
                     </tr>
                     <tr>
@@ -46,6 +46,11 @@
                         </td>
                         <td>
                             <input id="subject" class="form-control" name="qtyiv" type="subject" value="" size="30" aria-required="true" placeholder="Kg / g*" title="Subject" >
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <input id="subject" class="form-control" name="address" type="subject" value="" size="30" aria-required="true" placeholder="Delivery Address" title="Subject">
                         </td>
                     </tr>
                     <tr>
