@@ -15,49 +15,61 @@
         <div class="item-image">
           <img src="<?php echo base_url();?>assets/images/portfolio/1.jpg" alt="Portfolio Image">
         </div>
-        <span class="item-title">HTML5 Project</span>
+        <span class="item-title">murukku</span>
       </div>
       <div class="item">
         <div class="item-image">
           <img src="<?php echo base_url();?>assets/images/portfolio/2.jpg" alt="Portfolio Image">
         </div>
-        <span class="item-title">CSS3 Project</span>
+        <span class="item-title">cassava chips</span>
       </div>
       <div class="item">
         <div class="item-image">
           <img src="<?php echo base_url();?>assets/images/portfolio/3.jpg" alt="Portfolio Image">
         </div>
-        <span class="item-title">WordPress Project</span>
+        <span class="item-title">karaseve</span>
       </div>
       <div class="item">
         <div class="item-image">
           <img src="<?php echo base_url();?>assets/images/portfolio/4.jpg" alt="Portfolio Image">
         </div>
-        <span class="item-title">Joomla Project</span>
+        <span class="item-title">lime pickle</span>
       </div>
       <div class="item">
         <div class="item-image">
-          <img src="<?php echo base_url();?>assets/images/portfolio/1.jpg" alt="Portfolio Image">
+          <img src="<?php echo base_url();?>assets/images/portfolio/5.jpg" alt="Portfolio Image">
         </div>
-        <span class="item-title">Drupal Project</span>
+        <span class="item-title">kara boondi</span>
       </div>
       <div class="item">
         <div class="item-image">
-          <img src="<?php echo base_url();?>assets/images/portfolio/2.jpg" alt="Portfolio Image">
+          <img src="<?php echo base_url();?>assets/images/portfolio/6.jpg" alt="Portfolio Image">
         </div>
-        <span class="item-title">Magento Project</span>
+        <span class="item-title">ribbon pakoda</span>
       </div>
       <div class="item">
         <div class="item-image">
-          <img src="<?php echo base_url();?>assets/images/portfolio/3.jpg" alt="Portfolio Image">
+          <img src="<?php echo base_url();?>assets/images/portfolio/7.jpg" alt="Portfolio Image">
         </div>
-        <span class="item-title">Foundation Project</span>
+        <span class="item-title">ring murukku</span>
       </div>
       <div class="item">
         <div class="item-image">
-          <img src="<?php echo base_url();?>assets/images/portfolio/4.jpg" alt="Portfolio Image">
+          <img src="<?php echo base_url();?>assets/images/portfolio/8.jpg" alt="Portfolio Image">
         </div>
-        <span class="item-title">Bootstrap Project</span>
+        <span class="item-title">Seeni Murukku</span>
+      </div>
+      <div class="item">
+        <div class="item-image">
+          <img src="<?php echo base_url();?>assets/images/portfolio/9.jpg" alt="Portfolio Image">
+        </div>
+        <span class="item-title">fish sambol</span>
+      </div>
+      <div class="item">
+        <div class="item-image">
+          <img src="<?php echo base_url();?>assets/images/portfolio/10.png" alt="Portfolio Image">
+        </div>
+        <span class="item-title">garlic mixture</span>
       </div>
     </div>
   </div><!-- /.portfolio-area -->
